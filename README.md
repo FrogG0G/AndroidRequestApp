@@ -18,6 +18,7 @@
 ## Как пользоваться приложением
 
 ### Главная страница
+<img width="385" height="861" alt="image" src="https://github.com/user-attachments/assets/4feea389-5d54-4f4f-9dd6-ee6c62a198f6" />
 
 На главном экране вы увидите:
 
