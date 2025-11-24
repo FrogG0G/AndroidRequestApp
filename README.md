@@ -52,6 +52,8 @@
 ---
 
 ### Статистика
+<img width="386" height="858" alt="image" src="https://github.com/user-attachments/assets/8e73c2e4-02d7-40b3-9916-e9f7df2a78eb" />
+
 
 На вкладке **«Статистика»** доступны следующие функции:
 
