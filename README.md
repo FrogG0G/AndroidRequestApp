@@ -35,6 +35,9 @@
 ---
 
 ### Создание заявки
+<img width="385" height="848" alt="image" src="https://github.com/user-attachments/assets/3e097a13-1049-4558-8f47-744611767ecd" /> <img width="380" height="853" alt="image" src="https://github.com/user-attachments/assets/2d03885d-6c7a-4208-b808-d809353b2f53" />
+
+
 
 При нажатии на кнопку **«Создать заявку»** или **«Создать заявку на покраску»** вы попадёте на форму, где нужно указать:
 
